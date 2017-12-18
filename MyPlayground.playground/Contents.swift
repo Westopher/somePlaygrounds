@@ -37,4 +37,15 @@ if let Luna = someAnimal as? Dog {
 }
 
 
+//for counter in 5...10 {
+//    print("hello world \(counter)")
+//}
+
+var delishCandy = ["skittles", "snickers", "sour patch", "mars"]
+
+for counter in delishCandy {
+    print(counter)
+}
+
+
 
